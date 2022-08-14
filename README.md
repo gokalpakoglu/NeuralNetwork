@@ -57,3 +57,6 @@ PAY_AMT6: Amount of previous payment (NT dollar). Amount paid in June, 2005.
 
 dpnm: Default payment next month.(Yes = 1, No = 0)
 
+## Goal
+
+Using the models we created, we will try to predict the class value of dpnm column with better scores (accuracy and f1) than the scores presented in the original paper.
